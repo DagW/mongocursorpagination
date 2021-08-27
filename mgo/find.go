@@ -10,7 +10,7 @@ import (
 
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
-	mcpbson "github.com/qlik-oss/mongocursorpagination/bson"
+	mcpbson "github.com/DagW/mongocursorpagination/bson"
 )
 
 type (

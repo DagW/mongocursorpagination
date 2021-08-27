@@ -5,7 +5,7 @@ import (
 
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
-	mongocursorpagination "github.com/qlik-oss/mongocursorpagination/mgo"
+	mongocursorpagination "github.com/DagW/mongocursorpagination/mgo"
 )
 
 type (

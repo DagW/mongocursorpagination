@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"reflect"
 
-	mcpbson "github.com/qlik-oss/mongocursorpagination/bson"
+	mcpbson "github.com/DagW/mongocursorpagination/bson"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo/options"

@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	mongocursorpagination "github.com/qlik-oss/mongocursorpagination/mongo"
+	mongocursorpagination "github.com/DagW/mongocursorpagination/mongo"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

@@ -1,4 +1,4 @@
-module github.com/qlik-oss/mongocursorpagination
+module github.com/DagW/mongocursorpagination
 
 go 1.14
 

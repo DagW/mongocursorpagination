@@ -7,7 +7,7 @@ import (
 
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
-	mgocursorpagination "github.com/qlik-oss/mongocursorpagination/mgo"
+	mgocursorpagination "github.com/DagW/mongocursorpagination/mgo"
 	"github.com/stretchr/testify/require"
 )
 
